@@ -1,13 +1,13 @@
 {
-	"name": "PornHub",
-	"description": "Basic PornHub plugin for Grayjay",
-	"author": "mr. X",
+	"name": "CornHub",
+	"description": "Piss",
+	"author": "Bals",
 	"authorUrl": "",
 	
-	"sourceUrl": "https://raw.githubusercontent.com/paaspaas00/pornhubGrayjay/main/PornhubConfig.json",
-	"repositoryUrl": "https://github.com/paaspaas00/pornhubGrayjay/",
+	"sourceUrl": "https://raw.githubusercontent.com/WindGlider17/cornhub/refs/heads/main/PornhubConfig.json",
+	"repositoryUrl": "https://github.com/WindGlider17/cornhub/",
 	"scriptUrl": "./PornhubScript.js",
-	"version": 10,
+	"version": 69,
 
 	"scriptPublicKey": "",
 	"scriptSignature": "",
