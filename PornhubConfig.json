@@ -1,13 +1,14 @@
 {
 	"name": "CornHub",
-	"description": "Piss",
-	"author": "Bals",
+	"description": "Basic PornHub plugin for Grayjay",
+	"author": "Balls",
 	"authorUrl": "",
+	"platformUrl":"https://www.pornhub.org",
 	
 	"sourceUrl": "https://raw.githubusercontent.com/WindGlider17/cornhub/main/PornhubConfig.json",
 	"repositoryUrl": "https://github.com/WindGlider17/cornhub/",
 	"scriptUrl": "./PornhubScript.js",
-	"version": 69,
+	"version": 11,
 
 	"scriptPublicKey": "",
 	"scriptSignature": "",
@@ -22,6 +23,10 @@
 		".pornhub.org"
 	],
 	"changelog": {
+		"11": [
+			"Fix playing videos, isChannelUrl check;",
+			"Fix loading some channels;"
+		],
 		"10": [
 			"Remove invalid Signature;",
 			"Added channel statistics to description (total videos, views, subscribers);",
